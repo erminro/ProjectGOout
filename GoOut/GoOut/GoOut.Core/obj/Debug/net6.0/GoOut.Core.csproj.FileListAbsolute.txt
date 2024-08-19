@@ -1,0 +1,15 @@
+D:\GoOut\GoOut\GoOut.Core\obj\Debug\net6.0\GoOut.Core.csproj.AssemblyReference.cache
+D:\GoOut\GoOut\GoOut.Core\obj\Debug\net6.0\GoOut.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoOut\GoOut\GoOut.Core\obj\Debug\net6.0\GoOut.Core.AssemblyInfoInputs.cache
+D:\GoOut\GoOut\GoOut.Core\obj\Debug\net6.0\GoOut.Core.AssemblyInfo.cs
+D:\GoOut\GoOut\GoOut.Core\obj\Debug\net6.0\GoOut.Core.csproj.CoreCompileInputs.cache
+D:\GoOut\GoOut\GoOut.Core\bin\Debug\net6.0\GoOut.Core.deps.json
+D:\GoOut\GoOut\GoOut.Core\bin\Debug\net6.0\GoOut.Core.dll
+D:\GoOut\GoOut\GoOut.Core\bin\Debug\net6.0\GoOut.Core.pdb
+D:\GoOut\GoOut\GoOut.Core\bin\Debug\net6.0\GoOut.Domain.dll
+D:\GoOut\GoOut\GoOut.Core\bin\Debug\net6.0\GoOut.Domain.pdb
+D:\GoOut\GoOut\GoOut.Core\obj\Debug\net6.0\GoOut.Core.csproj.CopyComplete
+D:\GoOut\GoOut\GoOut.Core\obj\Debug\net6.0\GoOut.Core.dll
+D:\GoOut\GoOut\GoOut.Core\obj\Debug\net6.0\refint\GoOut.Core.dll
+D:\GoOut\GoOut\GoOut.Core\obj\Debug\net6.0\GoOut.Core.pdb
+D:\GoOut\GoOut\GoOut.Core\obj\Debug\net6.0\ref\GoOut.Core.dll
